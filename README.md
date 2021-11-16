@@ -1,5 +1,5 @@
 
-## support resize cursors for macOS.
+## support resize cursors for flutter desktop on macOS.
 - resizeUpLeftDownRight
 - resizeUpRightDownLeft
 - resizeUpLeft
