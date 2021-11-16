@@ -1,5 +1,11 @@
-# flutter_desktop_cursor
-support resizeUpLeftDownRight,resizeUpRightDownLeft,resizeUpLeft,resizeUpRight,resizeDownLeft,resizeDownRight for macOS.
+
+## support resize cursors for macOS.
+- resizeUpLeftDownRight
+- resizeUpRightDownLeft
+- resizeUpLeft
+- resizeUpRight
+- resizeDownLeft
+- resizeDownRight
 
 
 ## samples
